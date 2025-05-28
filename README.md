@@ -1,2 +1,2 @@
 # que-lo-que
-un pollo
+un pollo no una gallina
